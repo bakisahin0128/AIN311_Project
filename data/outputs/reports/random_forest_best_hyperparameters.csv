@@ -1,2 +1,0 @@
-bootstrap,max_depth,min_samples_leaf,min_samples_split,n_estimators
-True,,1,10,300
