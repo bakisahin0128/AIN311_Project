@@ -1,0 +1,2 @@
+activation,alpha,hidden_layer_sizes,learning_rate,solver
+relu,0.001,"(100, 50)",adaptive,sgd
